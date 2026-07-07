@@ -2,7 +2,8 @@
 
 
 <<info
-This shell script will take periodic backups
+This is the shell scipts to take backups
+can also be used with crons
 info
 
 
